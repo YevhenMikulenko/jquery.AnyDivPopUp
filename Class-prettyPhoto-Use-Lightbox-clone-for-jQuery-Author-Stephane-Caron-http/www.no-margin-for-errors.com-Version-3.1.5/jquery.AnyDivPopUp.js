@@ -1,11 +1,10 @@
 /* ------------------------------------------------------------------------
- Class: AnyDivPopUp
- Use: Lightbox clone for jQuery
- Author: Evgen Mikulenko (http://mikulenko.name)
- Version: 3.0.0
- ------------------------------------------------------------------------- */
+	Class: AnyDivPopUp
+	Use: Lightbox clone for jQuery
+	Author: Evgen Mikulenko (http://mikulenko.name)
+	Version: 3.0.5
+------------------------------------------------------------------------- */
 
-// Utility
 if (typeof Object.create !== 'function') {
     Object.create = function (obj) {
         function F() {
